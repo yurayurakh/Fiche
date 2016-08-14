@@ -1,0 +1,15 @@
+.history{
+  &:hover {
+    background-image:url(../img/hover-ok.png);
+    background-repeat: no-repeat;
+    background-color:#77c127;
+    background-position:50% 50%;
+    opacity:1;
+    img {
+      opacity:0.15;
+    }
+    p {
+      opacity:0.15;
+    }
+  }
+}
